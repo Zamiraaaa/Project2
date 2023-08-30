@@ -1,0 +1,5 @@
+pip install pandas numpy
+pip install Flask
+pip install pandas seaborn matplotlib
+pip install scikit-learn
+pip install pickle
